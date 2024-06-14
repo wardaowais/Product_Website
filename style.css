@@ -539,6 +539,11 @@ a:hover {
 
 
 @media screen and (max-width: 557px) {
+   .slide1{
+        height: 50vh !important;
+        width: 70vw !important;
+        
+    }
     .grand{
         width: 100vw;
         margin: 0;
